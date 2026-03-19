@@ -56,7 +56,9 @@ This project is designed to move beyond static interview prep and create a more 
 
 ## 📸 Demo
 
-_Add a screenshot of your Streamlit app here_
+![2EDA489C-246A-4A8F-88FD-4B1BD61B41D3_1_105_c](https://github.com/user-attachments/assets/7090cdac-623d-43a9-ac25-215cc0a80bf7)
+
+
 
 ---
 
