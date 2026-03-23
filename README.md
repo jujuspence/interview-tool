@@ -4,7 +4,7 @@ An interactive AI-powered interview preparation tool built with Streamlit and LL
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The AI Interview Assistant simulates a live interview experience by generating dynamic personality and reasoning questions. Users can respond in real time, and upon request, the system evaluates their answers by summarizing responses and providing structured feedback.
 
@@ -12,27 +12,27 @@ This project is designed to move beyond static interview prep and create a more 
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎯 **Behavioral & Reasoning Questions Only**
+ **Behavioral & Reasoning Questions Only**
   - Focuses on communication, decision-making, and thought process
   - Avoids technical/coding questions for a more universal use case
 
-- 🤖 **LLM-Powered Question Generation**
+-  **LLM-Powered Question Generation**
   - Dynamically generates interview questions using prompt engineering
 
-- 📝 **Response Capture & Session Flow**
+-  **Response Capture & Session Flow**
   - Users input answers in real time through an interactive UI
 
-- 📊 **Feedback on Demand**
+-  **Feedback on Demand**
   - Summarizes responses and provides structured feedback at the press of a button
 
-- 🔄 **Iterative Learning Experience**
+-  **Iterative Learning Experience**
   - Encourages reflection and improvement across multiple responses
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Streamlit** – UI and user interaction
@@ -41,7 +41,7 @@ This project is designed to move beyond static interview prep and create a more 
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 1. The user starts an interview session
 2. The system generates behavioral/reasoning questions using an LLM
@@ -54,7 +54,8 @@ This project is designed to move beyond static interview prep and create a more 
 
 ---
 
-## 📸 Demo
+##  Demo
+First, you fill out your information regarding your experience and what job you're applying for. Then you start the chat to begin your interview! Users get a chance to view their feedback at the end or restart the process. 
 
 ![2EDA489C-246A-4A8F-88FD-4B1BD61B41D3_1_105_c](https://github.com/user-attachments/assets/7090cdac-623d-43a9-ac25-215cc0a80bf7)
 
@@ -62,7 +63,7 @@ This project is designed to move beyond static interview prep and create a more 
 
 ---
 
-## ⚙️ Setup & Installation
+##  Setup & Installation
 
 1. Clone the repository:
 ```bash
